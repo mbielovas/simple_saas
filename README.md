@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+=== ReadME
+
+Coder Manual Project Application 
+Subscription-based web application
+http://codermanual.com
+
