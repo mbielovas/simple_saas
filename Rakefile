@@ -2,12 +2,3 @@
 # for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
 
 
-==README
-
-Coder Manual Project Application 
-Subscription-based web application 
-http://codermanual.com
-
-require_relative 'config/application'
-
-Rails.application.load_tasks
